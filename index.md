@@ -26,4 +26,8 @@
 ### Topic 2: dbt Cloud and Git Providers
 * What is git?
 * Why is git used in dbt Cloud?
-* 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
